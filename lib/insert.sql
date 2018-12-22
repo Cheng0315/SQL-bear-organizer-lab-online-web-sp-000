@@ -1,1 +1,1 @@
-require_relative "./lib/seed"
+require_relative "/seed"
