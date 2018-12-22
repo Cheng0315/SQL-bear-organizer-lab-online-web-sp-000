@@ -1,1 +1,1 @@
-require_relative "seed.sql"
+require_relative "./lib/seed.sql"
