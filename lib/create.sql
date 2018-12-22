@@ -4,6 +4,6 @@ CREATE TABLE bears (
     age INTEGER,
     gender TEXT,
     color TEXT,
-    temperature FLOAT,
+    temperature TEXT,
     alive TEXT
 )
